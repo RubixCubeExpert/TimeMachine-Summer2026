@@ -1,31 +1,40 @@
+> A public project led by an incoming 9th grader to change a real event in 1796 through physical lab work and machine design.
+
 # TimeMachine-Summer2026
 
 This project is the foundation of a year-long effort to build two physical devices:  
 **(1) a time machine to the past** and **(2) an undoing machine (last-in, first-out)** — designed to safely change a real historical event.
 
-## 🔭 Goal
-By summer 2026, I aim to cure **Ludwig van Beethoven’s hearing loss in 1796** using modern implant-aided hearing technology — through a real-world lab-based project involving:
+## 🎯 Target Goal
+Cure **Ludwig van Beethoven’s hearing loss in 1796** using modern implant-aided hearing technology — by building and testing physical machines in a lab by **Summer 2026**.
 
+The full system will involve:
 - Timeline tracking and safety detection
 - Physics-based modeling of past-change mechanics
 - Brain-implant interface design
 - Miniature device development
-- Lab integration (Stanford, if possible)
+- Integration with real lab equipment (Stanford, if possible)
 
-## 🧠 Who I Am
-I’m an 8th grader (incoming 9th) working toward a clear technical and historical goal.  
-This repository will hold:
-- Planning files
-- Machine design drafts
-- Physics calculations
-- Simulations or models (coming soon)
+## 🧠 About Me
+I’m an 8th grader (incoming 9th) building toward a specific, time-sensitive research goal.  
+This repository reflects the earliest phase of planning and will include:
+
+- Planning documents
+- Timeline safety diagrams
+- Weekly design updates
+- Physics equations used in the machine logic
+- Code simulations or models (coming soon)
 
 ## 📂 What’s Coming
-- Safety detection system based on alternate timeline analysis
-- Undoing device design (similar to Ctrl+Z for past-change)
-- Timeline logs and decision tracking
-- Collaboration structure for a 10-person team
+- Safety detection systems for alternate timeline protection
+- Device logic for undoing recent changes (like Ctrl+Z in real life)
+- Timeline logs and validation protocols
+- Collaboration plans for a 10-person team (with elite implants in 2025)
+
+## 📬 Contact
+If you’re a professor, student, or physicist interested in this work, you’re welcome to reach out or contribute ideas.  
+This project is open to collaboration and respectful feedback.
 
 ---
 
-*This is an early-stage repo. I created it as part of a serious research goal and hope to join a university lab (starting June 2025) to build this physically. Professors, students, and physicists are welcome to reach out if curious.*
+*This is an early-stage but serious repository created as part of a real research goal. Professors' work has already been integrated into this plan. I hope to begin work in a university lab in Summer 2025, especially at Stanford.*
