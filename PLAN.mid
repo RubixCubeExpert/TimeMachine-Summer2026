@@ -1,0 +1,44 @@
+# PLAN.md
+
+## 🎯 Project Goal
+Build two physical machines — a Time Machine and an Undoing Device — and cure Beethoven’s hearing in 1796 using implants, by Summer 2026.
+
+---
+
+## 🗓️ Weekly Plan (starting June 2025)
+
+### ✅ June 2025
+- Finalize team structure (10 people)
+- Build physical prototype shell of Time Machine (nonfunctional)
+- Begin undoing device internal design
+
+### ✅ July 2025
+- Add memory analysis logic to prototype
+- Start programming Ctrl+Z undo logic
+- Design implant-based timeline safety detection
+
+### ✅ August 2025
+- Begin testing timeline logging system
+- Implement lab return trigger
+- Simulate timeline tracking system
+
+### ✅ September–November 2025
+- Full-scale testing of all non-hazardous components
+- Begin integrating Stanford lab hardware (if allowed)
+- Timeline safety logs tested
+
+### ✅ December 2025–March 2026
+- Begin core machine logic implementation (real partial functions)
+- Continue alternate timeline simulation
+- Finalize Beethoven 1796 plan (exact meeting location, time, implants)
+
+### ✅ April–June 2026
+- Test final machine version with undoing control
+- Validate memory consistency
+- Prepare real past-change operation by summer
+
+---
+
+## 📌 Notes
+- Plan may adjust based on lab access
+- Backup simulations will run even if lab time is delayed
