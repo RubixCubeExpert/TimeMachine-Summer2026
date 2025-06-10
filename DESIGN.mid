@@ -1,0 +1,56 @@
+# DESIGN.md
+
+## 🔧 Overview
+
+This document explains the key parts of my Time Machine and Undoing Device (Ctrl+Z box) as shown in my machine diagram. These machines are designed for safe, targeted past-change operations with memory-aware safety systems.
+
+---
+
+## 🕰️ Time Machine – Key Components
+
+### 1. Timeline Display Panel
+- Shows current date, location, and timeline ID
+- Example: "10/1/2024" on top and "12/0/28" on bottom
+- Allows switching between timelines
+
+### 2. Memory Analyzer
+- Detects memory consistency across alternate timelines
+- Helps identify if a change has unintended ripple effects
+
+### 3. Target Locator System
+- Precisely identifies where a specific person is in the past
+- Crucial for curing Beethoven in 1796
+
+### 4. Time Transfer Control
+- Controls the moment and location of the jump
+- Includes safety lockouts for unstable timelines
+
+---
+
+## ⏪ Undoing Device – Key Components
+
+### 1. Ctrl+Z Core Logic
+- Stores the most recent timeline change
+- Can undo the last event with 1-tap reset
+
+### 2. Last-In-First-Out Tracker
+- Maintains order of changes to reverse properly
+- Designed for disaster recovery (accidental bad timeline)
+
+### 3. Lab Return Button
+- Sends user and timeline back to original lab position
+- Acts as an emergency exit
+
+---
+
+## 🧠 Interface with Brain Implants
+
+- Implants detect if the timeline is “safe” before, during, and after machine use
+- Warnings appear if the memory trace doesn’t match expected history
+- In future versions, direct mind control of basic actions (safety-first)
+
+---
+
+## 💬 Status
+
+This design is in early phase. Planning and simulations will be added as I begin Stanford-based lab work starting June 2025.
